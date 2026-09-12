@@ -4,7 +4,7 @@
 
 I work at the intersection of **AI**, **infrastructure / major programmes**, and **public policy / institutions**.
 
-- Oxford MMPM — PSPE (Programme Structural Prediction Engine)
+- Completing Oxford MMPM — PSPE dissertation (Programme Structural Prediction Engine)
 - Building Programme Encoder & Programme World Model
 - Founder, [Acentrium](https://acentrium.com) · [Acentrium Africa](https://acentrium.org)
 - Writing: Future Stakeholder · policy venues
