@@ -6,7 +6,7 @@ I work at the intersection of **AI**, **infrastructure / major programmes**, and
 
 - Completing Oxford MMPM — PSPE dissertation (Programme Structural Prediction Engine)
 - Building Programme Encoder & Programme World Model
-- Founder, [Acentrium](https://acentrium.com) · [Acentrium Africa](https://acentrium.org)
+- Founder, [Acentrium Africa](https://acentrium.org) — NGO
 - Writing: Future Stakeholder · policy venues
 
 Hub: [chikeka.github.io](https://chikeka.github.io) · HF: [@Chikeka](https://huggingface.co/Chikeka)
